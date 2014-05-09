@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "863055FD184D869E007EF41E"
-               BuildableName = "DianDi.app"
+               BuildableName = "&#28857;&#8226;&#28404;.app"
                BlueprintName = "DianDi"
                ReferencedContainer = "container:DianDi.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "863055FD184D869E007EF41E"
-            BuildableName = "DianDi.app"
+            BuildableName = "&#28857;&#8226;&#28404;.app"
             BlueprintName = "DianDi"
             ReferencedContainer = "container:DianDi.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "863055FD184D869E007EF41E"
-            BuildableName = "DianDi.app"
+            BuildableName = "&#28857;&#8226;&#28404;.app"
             BlueprintName = "DianDi"
             ReferencedContainer = "container:DianDi.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "863055FD184D869E007EF41E"
-            BuildableName = "DianDi.app"
+            BuildableName = "&#28857;&#8226;&#28404;.app"
             BlueprintName = "DianDi"
             ReferencedContainer = "container:DianDi.xcodeproj">
          </BuildableReference>

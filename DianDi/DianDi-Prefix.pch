@@ -13,4 +13,65 @@
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
+//宏定义参数
+#define StateColumn 20
+#define Bar_height 64
+
+//横屏
+#pragma mark - Heng++++++++++++++++++++
+
+//屏幕宽度
+#define Heng_Screen_width 1024
+//屏幕高度
+#define Heng_Screen_height 748
+
+//菜单视图的大小
+#define Heng_MenuV_width 217
+#define Heng_MenuV_height 748
+
+//进入新闻详情界面前
+#pragma mark - NewsTV-before--------------
+
+//新闻列表tableview起始位置x坐标
+#define Heng_Before_NewsTV_x 217
+//新闻列表tableview的宽度
+#define Heng_Before_NewsTV_width 807
+//新闻列表tableview的高度
+#define Heng_Before_NewsTV_height 748
+//新闻标题文字大小
+#define Heng_Before_NewsTV_textsize 14
+//新闻标题的起始位置x坐标
+#define Heng_Before_NewsTV_Title_x
+//新闻标题的宽度
+#define Heng_Before_NewsTV_Title_width
+//通用显示状态
+#define Heng_Before_NewsTV_show 1
+
+//进入新闻详情界面后
+#pragma mark - NewsTV-after----------------
+
+//列表界面新闻列表tableview起始位置
+#define Heng_After_NewsV_x 800
+//新闻列表tableview的宽度
+#define Heng_After_NewsV_width 400
+//新闻列表tableview的高度
+#define Heng_After_NewsV_height 748
+//新闻标题文字大小
+#define Heng_After_NewsV_textsize 12
+//新闻标题的起始位置x坐标
+#define Heng_After_NewsV_Title_x 100
+//通用显示状态
+#define Heng_After_NewsV_show 0
+//视图位移
+#define Heng_After_NewsV_move 40
+
+//竖屏
+#pragma mark - Shu++++++++++++++++++++
+
+//屏幕宽度
+#define Heng_Screen_width 768
+//屏幕高度
+#define Heng_Screen_height 1004
+
+
 #endif
